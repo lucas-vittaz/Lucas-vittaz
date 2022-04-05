@@ -1,4 +1,6 @@
-#Salut✌️,
+=begin
+
+Salut✌️,
 
 <hr>
 <div style="background-color: red!important">
@@ -33,4 +35,4 @@ Je suis aussi passionné de sport de glisse 🏄‍🏂🛹 : <br><br>
 <!-- ![Cover](https://github.com/Lucas-vittaz/Lucas-Vittaz/blob/main/img/cover.jpg) -->
 <!-- ![Ruby](https://github.com/Lucas-vittaz/Lucas-Vittaz/blob/main/img/ruby.png) -->
 
-<hr>
+=end
