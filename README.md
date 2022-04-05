@@ -1,16 +1,15 @@
-### Hi there 👋
+Salut✌️,
 
-<!--
-**lucas-vittaz/Lucas-vittaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Je me forme au métier de développeur web Front End et Back End.<br>
+Je suis actuellement en cours de formation Développeur Web au Wagon à Nantes !🚋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I'm on Ruby on Rails
+- ✋ I'm open to projects
+- 👤 [LinkedIn](https://www.linkedin.com/in/lucas-vittaz/)
+- :octocat: My [portfolio](WIP)  
+
+`Ruby` - `Ruby on Rails` - `Ruby Motion` - `HTML` - `SCSS` - `JavaScript` - `SQL` - `VueJS` - `Bootstrap`
+
+<p align="center"> <img src="https://github.com/Lucas-vittaz/Lucas-Vittaz/blob/main/img/cover.jpg" alt="drawing" width="600"/> </p>
+<!-- ![Cover](https://github.com/Lucas-vittaz/Lucas-Vittaz/blob/main/img/cover.jpg) -->
