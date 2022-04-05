@@ -11,5 +11,5 @@ Je suis actuellement en cours de formation Développeur Web au Wagon à Nantes !
 
 `Ruby` - `Ruby on Rails` - `Ruby Motion` - `HTML` - `SCSS` - `JavaScript` - `SQL` - `VueJS` - `Bootstrap`
 
-<p align="center"> <img src="https://github.com/Lucas-vittaz/Lucas-Vittaz/blob/main/img/cover.jpg" alt="drawing" width="600"/> </p>
+<p align="center"> <img src="https://github.com/Lucas-vittaz/Lucas-Vittaz/blob/main/img/cover.jpg" alt="drawing" width="300"/> </p>
 <!-- ![Cover](https://github.com/Lucas-vittaz/Lucas-Vittaz/blob/main/img/cover.jpg) -->
