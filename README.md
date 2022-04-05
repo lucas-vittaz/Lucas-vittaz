@@ -1,5 +1,6 @@
 Salut✌️,
 
+<hr>
 
 Je me forme au métier de développeur web Front End et Back End.<br>
 Je suis actuellement en cours de formation "Développeur Web" au Wagon à Nantes !🚋
@@ -12,9 +13,10 @@ Je suis actuellement en cours de formation "Développeur Web" au Wagon à Nantes
 <hr>
 
 Mes languages et outils : <br>
-<img src="https://github.com/Lucas-vittaz/Lucas-Vittaz/blob/main/img/cover.jpg" alt="drawing" width="300"/> | <img src="https://github.com/Lucas-vittaz/Lucas-Vittaz/blob/main/img/cover.jpg" alt="drawing" width="300"/> | <img src="https://github.com/Lucas-vittaz/Lucas-Vittaz/blob/main/img/cover.jpg" alt="drawing" width="300"/> | <img src="https://github.com/Lucas-vittaz/Lucas-Vittaz/blob/main/img/cover.jpg" alt="drawing" width="300"/> |
+<img src="https://github.com/Lucas-vittaz/Lucas-Vittaz/blob/main/img/ruby.png" alt="ruby" width="50"/> | <img src="https://github.com/Lucas-vittaz/Lucas-Vittaz/blob/main/img/rails.png" alt="ROR" width="50"/> | <img src="https://github.com/Lucas-vittaz/Lucas-Vittaz/blob/main/img/motion.png" alt="Ruby-Motion " width="50"/> | <img src="https://github.com/Lucas-vittaz/Lucas-Vittaz/blob/main/img/js-icon.png" alt="Javascript" width="50"/> | <img src="https://github.com/Lucas-vittaz/Lucas-Vittaz/blob/main/img/sql.png" alt="SQL" width="50"/> | <img src="https://github.com/Lucas-vittaz/Lucas-Vittaz/blob/main/img/sass.png" alt="SCSS" width="50"/> | <img src="https://github.com/Lucas-vittaz/Lucas-Vittaz/blob/main/img/Bootstrap.png" alt="Bootstrap" width="50"/> | <img src="https://github.com/Lucas-vittaz/Lucas-Vittaz/blob/main/img/css.png" alt="CSS" width="50"/> | <img src="https://github.com/Lucas-vittaz/Lucas-Vittaz/blob/main/img/html.png" alt="HTML" width="50"/> |
 
 Vous pouvez consulter mon premier projet professionnel réalisé pour un entreprise locale : <a href="https://www.jardica.net/">ici 👨‍💻.</a>
 
 <p align="center"> <img src="https://github.com/Lucas-vittaz/Lucas-Vittaz/blob/main/img/cover.jpg" alt="drawing" width="300"/> </p>
 <!-- ![Cover](https://github.com/Lucas-vittaz/Lucas-Vittaz/blob/main/img/cover.jpg) -->
+<!-- ![Ruby](https://github.com/Lucas-vittaz/Lucas-Vittaz/blob/main/img/ruby.png) -->
