@@ -1,4 +1,3 @@
-=begin
 # Salut✌️,
 Je me forme au métier de développeur web Front End et Back End.<br>
 Je suis actuellement en cours de formation "Développeur Web" au Wagon à Nantes !🚋
@@ -17,5 +16,3 @@ Vous pouvez consulter mon premier projet professionnel réalisé pour une entrep
 ![GitHub top language](https://img.shields.io/github/languages/top/Lucas-vittaz/jardi?color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/Lucas-vittaz/jardi?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Lucas-vittaz/jardi?style=social)
-
-=end
