@@ -13,3 +13,5 @@ You can check out my first professional project for a local French company: <a h
 ![GitHub top language](https://img.shields.io/github/languages/top/Lucas-vittaz/rails-watch-list?color=red) &bull;
 ![GitHub forks](https://img.shields.io/github/forks/Lucas-vittaz/jardi?style=social) &bull;
 ![GitHub Repo stars](https://img.shields.io/github/stars/Lucas-vittaz/jardi?style=social) &bull;
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=lucas-vittaz.README.md)
