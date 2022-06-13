@@ -11,9 +11,8 @@ I am training as a Front End and Back End web developer at Wagon in Nantes !🚋
 ## My projects📌 :
 You can check out my first professional project for a local French company: <a href="https://www.jardica.net/">There👨‍💻.</a><br>
 
-&bull; ![GitHub language count](https://img.shields.io/github/languages/count/Lucas-vittaz/jardi) &bull;
-![GitHub top language](https://img.shields.io/github/languages/top/Lucas-vittaz/rails-watch-list?color=red) &bull;
-![GitHub forks](https://img.shields.io/github/forks/Lucas-vittaz/jardi?style=social) &bull;
-![GitHub Repo stars](https://img.shields.io/github/stars/Lucas-vittaz/jardi?style=social) &bull;
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=lucas-vittaz.README.md)
+- ![GitHub language count](https://img.shields.io/github/languages/count/Lucas-vittaz/jardi);
+- ![GitHub top language](https://img.shields.io/github/languages/top/Lucas-vittaz/rails-watch-list?color=red);
+- ![GitHub forks](https://img.shields.io/github/forks/Lucas-vittaz/jardi?style=social);
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Lucas-vittaz/jardi?style=social);
+- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lucas-vittaz.README.md)
