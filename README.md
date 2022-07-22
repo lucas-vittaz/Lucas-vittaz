@@ -3,7 +3,7 @@ I am training as a Front End and Back End web developer at Wagon in Nantes !🚋
 - 💻 I’m working on Ruby On Rails
 - ✋ I am open to projects
 - 👤 [LinkedIn](https://www.linkedin.com/in/lucas-vittaz)
-- :octocat: My [portfolio](WIP)  
+- :octocat: My [portfolio](https://www.lucasvittaz.com)  
 - ✉️ How to reach me: lucasvitttaz.pro@gmail.com
 
 ## My languages and tools⚙️ :
