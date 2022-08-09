@@ -15,6 +15,5 @@ You can check out my first professional project for a local French company: <a h
 
 ![GitHub language count](https://img.shields.io/github/languages/count/Lucas-vittaz/jardi)<br>
 ![GitHub top language](https://img.shields.io/github/languages/top/Lucas-vittaz/rails-watch-list?color=red)<br>
-![GitHub forks](https://img.shields.io/github/forks/Lucas-vittaz/jardi?style=social)<br>
 ![GitHub Repo stars](https://img.shields.io/github/stars/Lucas-vittaz/jardi?style=social)<br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lucas-vittaz.README.md)<br>
