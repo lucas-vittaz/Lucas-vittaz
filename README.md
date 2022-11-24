@@ -16,8 +16,8 @@
   </div>
   <br>
   💻 I’m working on Ruby On Rails and React<br>
-  ✋ I am open to projects<br>
-  <a class="btn btn-gradient" href="https://www.lucasvittaz.com" style="display: inline-block; font-weight: 400; color: #212529; text-align: center; border: 1px solid transparent; padding: .375rem .75rem; font-size: 1rem; line-height: 1.5; border-radius: .25rem; color: #fff; background-color: #051C4A;">My portfolio</a><br>
+  ✋ I am open to projects<br><br>
+  >>>>>>>>>>>>>>>>>>>> <a class="btn btn-gradient" href="https://www.lucasvittaz.com" style="display: inline-block; font-weight: 400; color: #212529; text-align: center; border: 1px solid transparent; padding: .375rem .75rem; font-size: 1rem; line-height: 1.5; border-radius: .25rem; color: #fff; background-color: #051C4A;">My portfolio</a> <<<<<<<<<<<<<<<<<<<<<br><br>
   ✉️ How to reach me: lucasvitttaz.pro@gmail.com || (+33) 06 85 25 98 77<br>
 
   ## My languages and tools⚙️ :
