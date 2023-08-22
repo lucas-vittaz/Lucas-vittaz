@@ -7,6 +7,5 @@
   ✋ I am open to work<br><br>
   ✉️ How to reach me: lucasvitttaz.pro@gmail.com || (+33) 06 85 25 98 77<br>
 
-  ![](https://komarev.com/ghpvc/?username=lucas-vittaz&color=green)<br>
-  <img src="https://www.codewars.com/users/lucas-vittaz/badges/large" alt="codewars rank"><br>
+  ![](https://komarev.com/ghpvc/?username=lucas-vittaz&color=green)
 </div>
