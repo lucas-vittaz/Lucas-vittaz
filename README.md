@@ -1,7 +1,7 @@
 <div align="center">
   Hi there !✌️, <br><br>
   Currently working at Sogeti, Nantes, France ! <br>
-  I studied at Le Wagon (Batch 856)🚋 and now thriving on a Java and Angular stack, while maintaining Ruby on Rails applications.<br><br>
+  I studied at Le Wagon (Batch 856)🚋 and now thriving on a Java and Angular stack, while maintaining Ruby on Rails applications.<br>
   > Portfolio : https://www.lucasvittaz.com <
   <br>
   <br>
