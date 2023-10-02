@@ -5,6 +5,7 @@
   <br>
   > Portfolio : https://www.lucasvittaz.com <
   <br>
+  <br>
   💻 I’m working on Java, Angular, Ruby On Rails<br>
   ✋ I am open to work<br><br>
   ✉️ How to reach me: lucasvitttaz.pro@gmail.com || (+33) 06 85 25 98 77<br>
